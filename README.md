@@ -1,4 +1,4 @@
-# 💫 About Me:
+# <p align="center">💫 About me:
 Hi I am Mokshitha K J. I am currently 2nd year, pursuing computer science and business systems. 
 
 
@@ -13,6 +13,6 @@ Hi I am Mokshitha K J. I am currently 2nd year, pursuing computer science and bu
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mokshithakj&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mokshithakj&icon=7&color=5)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=mokshithakj&icon=7&color=5)](https://visitcount.itsvg.in) </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
