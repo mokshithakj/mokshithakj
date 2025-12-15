@@ -1,46 +1,18 @@
-<h1 align="center">Hi 👋, I'm K J Mokshitha</h1>
-<h3 align="center">Aspiring Developer | Building & Learning Everyday</h3>
+# 💫 About Me:
+Hi I am Mokshitha K J. I am currently 2nd year, pursuing computer science and business systems. 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mokshithakj&label=Profile%20views&color=0e75b6&style=flat" alt="mokshithakj" />
-</p>
 
----
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mokshithakj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mokshithakj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mokshithakj1146@gmail.com) 
 
-🌟 **About Me**
-- 🎓 Currently learning and experimenting with new technologies.
-- 🔭 Working on: **Python-SQL Inventory App**
-- 🌱 Growing skills in: **Java, Data Structures & Algorithms**
-- 💡 Passionate about building practical projects and deepening my programming knowledge.
-
----
-
-🛠️ **Languages & Tools**
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-</p>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mokshithakj&theme=rose&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mokshithakj&theme=rose&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mokshithakj&theme=rose&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=mokshithakj&icon=7&color=5)](https://visitcount.itsvg.in)
 
-📫 **Reach Me**
-- Email: mokshithakj1146@gmail.com
-
-<h3>Connect with me:</h3>
-<p>
-  <a href="https://linkedin.com/in/mokshithakj" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/mokshithakj" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<!-- Optionally add a fun fact, motto, or a quote here! -->
-<!-- Example: 🌱 "Code. Learn. Repeat." -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
