@@ -13,6 +13,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=mokshithakj&icon=7&color=5)](https://visitcount.itsvg.in) </p>
 
-##  <p align="center">🌐Connect me:
-<p align="center">[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mokshithakj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mokshithakj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mokshithakj1146@gmail.com) </p></p>
-
